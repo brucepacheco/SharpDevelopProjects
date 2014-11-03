@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.2.1.6466
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ejercicio 15", "ejercicio 15\ejercicio 15.vbproj", "{12BCC8D2-768D-4BE4-8D71-FF8B7F15FAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BCC8D2-768D-4BE4-8D71-FF8B7F15FAEB}.Debug|x86.Build.0 = Debug|x86
+		{12BCC8D2-768D-4BE4-8D71-FF8B7F15FAEB}.Debug|x86.ActiveCfg = Debug|x86
+		{12BCC8D2-768D-4BE4-8D71-FF8B7F15FAEB}.Release|x86.Build.0 = Release|x86
+		{12BCC8D2-768D-4BE4-8D71-FF8B7F15FAEB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

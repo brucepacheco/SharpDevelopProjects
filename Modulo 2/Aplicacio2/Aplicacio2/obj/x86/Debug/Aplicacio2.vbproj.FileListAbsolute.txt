@@ -1,0 +1,7 @@
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\Aplicacio2\Aplicacio2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\Aplicacio2\Aplicacio2\obj\x86\Debug\Aplicacio2.MainForm.resources
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\Aplicacio2\Aplicacio2\obj\x86\Debug\Aplicacio2.vbproj.GenerateResource.Cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\Aplicacio2\Aplicacio2\bin\Debug\Aplicacio2.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\Aplicacio2\Aplicacio2\bin\Debug\Aplicacio2.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\Aplicacio2\Aplicacio2\obj\x86\Debug\Aplicacio2.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\Aplicacio2\Aplicacio2\obj\x86\Debug\Aplicacio2.pdb

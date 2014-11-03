@@ -1,0 +1,7 @@
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\salario\salario\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\salario\salario\obj\x86\Debug\salario.MainForm.resources
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\salario\salario\obj\x86\Debug\salario.vbproj.GenerateResource.Cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\salario\salario\bin\Debug\salario.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\salario\salario\bin\Debug\salario.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\salario\salario\obj\x86\Debug\salario.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\salario\salario\obj\x86\Debug\salario.pdb

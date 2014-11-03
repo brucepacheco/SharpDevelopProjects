@@ -1,0 +1,5 @@
+C:\Users\Bruce\Documents\SharpDevelop Projects\area\area\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\SharpDevelop Projects\area\area\bin\Debug\area.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\area\area\bin\Debug\area.pdb
+C:\Users\Bruce\Documents\SharpDevelop Projects\area\area\obj\x86\Debug\area.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\area\area\obj\x86\Debug\area.pdb

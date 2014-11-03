@@ -1,0 +1,5 @@
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejemplo vectores consola\ejemplo vectores consola\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejemplo vectores consola\ejemplo vectores consola\bin\Debug\ejemplo vectores consola.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejemplo vectores consola\ejemplo vectores consola\bin\Debug\ejemplo vectores consola.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejemplo vectores consola\ejemplo vectores consola\obj\x86\Debug\ejemplo vectores consola.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejemplo vectores consola\ejemplo vectores consola\obj\x86\Debug\ejemplo vectores consola.pdb

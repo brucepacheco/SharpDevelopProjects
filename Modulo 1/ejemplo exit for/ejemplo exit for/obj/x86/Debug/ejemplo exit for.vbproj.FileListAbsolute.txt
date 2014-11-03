@@ -1,0 +1,5 @@
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejemplo exit for\ejemplo exit for\bin\Debug\ejemplo exit for.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejemplo exit for\ejemplo exit for\bin\Debug\ejemplo exit for.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejemplo exit for\ejemplo exit for\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejemplo exit for\ejemplo exit for\obj\x86\Debug\ejemplo exit for.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejemplo exit for\ejemplo exit for\obj\x86\Debug\ejemplo exit for.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\frmAplicación1\frmAplicación1\bin\Debug\frmAplicación1.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\frmAplicación1\frmAplicación1\bin\Debug\frmAplicación1.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\frmAplicación1\frmAplicación1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\frmAplicación1\frmAplicación1\obj\x86\Debug\frmAplicación1.MainForm.resources
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\frmAplicación1\frmAplicación1\obj\x86\Debug\frmAplicación1.vbproj.GenerateResource.Cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\frmAplicación1\frmAplicación1\obj\x86\Debug\frmAplicación1.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\frmAplicación1\frmAplicación1\obj\x86\Debug\frmAplicación1.pdb

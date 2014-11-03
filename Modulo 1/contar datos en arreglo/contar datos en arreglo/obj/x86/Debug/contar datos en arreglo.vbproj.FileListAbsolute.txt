@@ -1,0 +1,5 @@
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\contar datos en arreglo\contar datos en arreglo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\contar datos en arreglo\contar datos en arreglo\bin\Debug\contar datos en arreglo.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\contar datos en arreglo\contar datos en arreglo\bin\Debug\contar datos en arreglo.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\contar datos en arreglo\contar datos en arreglo\obj\x86\Debug\contar datos en arreglo.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\contar datos en arreglo\contar datos en arreglo\obj\x86\Debug\contar datos en arreglo.pdb

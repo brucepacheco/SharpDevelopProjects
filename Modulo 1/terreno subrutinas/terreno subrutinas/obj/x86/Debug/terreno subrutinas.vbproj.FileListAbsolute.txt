@@ -1,0 +1,5 @@
+C:\Users\Bruce\Documents\SharpDevelop Projects\terreno subrutinas\terreno subrutinas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\SharpDevelop Projects\terreno subrutinas\terreno subrutinas\bin\Debug\terreno subrutinas.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\terreno subrutinas\terreno subrutinas\bin\Debug\terreno subrutinas.pdb
+C:\Users\Bruce\Documents\SharpDevelop Projects\terreno subrutinas\terreno subrutinas\obj\x86\Debug\terreno subrutinas.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\terreno subrutinas\terreno subrutinas\obj\x86\Debug\terreno subrutinas.pdb

@@ -1,0 +1,14 @@
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\Modulo 2\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\Modulo 2\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\Modulo 2\calculadora\calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\Modulo 2\calculadora\calculadora\obj\x86\Debug\calculadora.MainForm.resources
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\Modulo 2\calculadora\calculadora\obj\x86\Debug\calculadora.vbproj.GenerateResource.Cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\Modulo 2\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\Modulo 2\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\calculadora\calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\calculadora\calculadora\obj\x86\Debug\calculadora.MainForm.resources
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\calculadora\calculadora\obj\x86\Debug\calculadora.vbproj.GenerateResource.Cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\Modulo 2\calculadora\calculadora\obj\x86\Debug\calculadora.pdb

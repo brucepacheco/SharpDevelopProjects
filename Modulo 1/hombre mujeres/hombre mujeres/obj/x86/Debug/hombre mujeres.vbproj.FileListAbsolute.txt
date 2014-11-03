@@ -1,0 +1,10 @@
+C:\Users\Bruce\Documents\SharpDevelop Projects\hombre mujeres\hombre mujeres\bin\Debug\hombre mujeres.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\hombre mujeres\hombre mujeres\bin\Debug\hombre mujeres.pdb
+C:\Users\Bruce\Documents\SharpDevelop Projects\hombre mujeres\hombre mujeres\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\SharpDevelop Projects\hombre mujeres\hombre mujeres\obj\x86\Debug\hombre mujeres.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\hombre mujeres\hombre mujeres\obj\x86\Debug\hombre mujeres.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\hombre mujeres\hombre mujeres\bin\Debug\hombre mujeres.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\hombre mujeres\hombre mujeres\bin\Debug\hombre mujeres.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\hombre mujeres\hombre mujeres\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\hombre mujeres\hombre mujeres\obj\x86\Debug\hombre mujeres.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\hombre mujeres\hombre mujeres\obj\x86\Debug\hombre mujeres.pdb

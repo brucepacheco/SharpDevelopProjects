@@ -1,0 +1,5 @@
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejercicio 17\ejercicio 17\bin\Debug\ejercicio 17.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejercicio 17\ejercicio 17\bin\Debug\ejercicio 17.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejercicio 17\ejercicio 17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejercicio 17\ejercicio 17\obj\x86\Debug\ejercicio 17.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejercicio 17\ejercicio 17\obj\x86\Debug\ejercicio 17.pdb

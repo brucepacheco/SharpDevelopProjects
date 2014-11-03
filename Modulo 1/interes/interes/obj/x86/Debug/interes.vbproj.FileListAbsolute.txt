@@ -1,0 +1,10 @@
+C:\Users\Bruce\Documents\SharpDevelop Projects\interes\interes\bin\Debug\interes.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\interes\interes\bin\Debug\interes.pdb
+C:\Users\Bruce\Documents\SharpDevelop Projects\interes\interes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\SharpDevelop Projects\interes\interes\obj\x86\Debug\interes.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\interes\interes\obj\x86\Debug\interes.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\interes\interes\bin\Debug\interes.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\interes\interes\bin\Debug\interes.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\interes\interes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\interes\interes\obj\x86\Debug\interes.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\interes\interes\obj\x86\Debug\interes.pdb

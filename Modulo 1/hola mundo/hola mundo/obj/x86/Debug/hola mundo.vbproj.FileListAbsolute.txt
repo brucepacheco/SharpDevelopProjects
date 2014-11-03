@@ -1,0 +1,5 @@
+C:\Users\Bruce\Documents\SharpDevelop Projects\hola mundo\hola mundo\bin\Debug\hola mundo.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\hola mundo\hola mundo\bin\Debug\hola mundo.pdb
+C:\Users\Bruce\Documents\SharpDevelop Projects\hola mundo\hola mundo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\SharpDevelop Projects\hola mundo\hola mundo\obj\x86\Debug\hola mundo.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\hola mundo\hola mundo\obj\x86\Debug\hola mundo.pdb

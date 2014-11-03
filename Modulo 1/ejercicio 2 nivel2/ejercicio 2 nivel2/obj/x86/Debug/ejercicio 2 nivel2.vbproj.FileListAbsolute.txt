@@ -1,0 +1,5 @@
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejercicio 2 nivel2\ejercicio 2 nivel2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejercicio 2 nivel2\ejercicio 2 nivel2\bin\Debug\ejercicio 2 nivel2.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejercicio 2 nivel2\ejercicio 2 nivel2\bin\Debug\ejercicio 2 nivel2.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejercicio 2 nivel2\ejercicio 2 nivel2\obj\x86\Debug\ejercicio 2 nivel2.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\ejercicio 2 nivel2\ejercicio 2 nivel2\obj\x86\Debug\ejercicio 2 nivel2.pdb

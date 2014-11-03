@@ -1,0 +1,10 @@
+C:\Users\Bruce\Documents\SharpDevelop Projects\litros de pintura\litros de pintura\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\SharpDevelop Projects\litros de pintura\litros de pintura\bin\Debug\litros de pintura.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\litros de pintura\litros de pintura\bin\Debug\litros de pintura.pdb
+C:\Users\Bruce\Documents\SharpDevelop Projects\litros de pintura\litros de pintura\obj\x86\Debug\litros de pintura.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\litros de pintura\litros de pintura\obj\x86\Debug\litros de pintura.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\litros de pintura\litros de pintura\bin\Debug\litros de pintura.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\litros de pintura\litros de pintura\bin\Debug\litros de pintura.pdb
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\litros de pintura\litros de pintura\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\litros de pintura\litros de pintura\obj\x86\Debug\litros de pintura.exe
+C:\Users\Bruce\Documents\UNACAR\Semestre 1\Programación I\SharpDevelop Projects\litros de pintura\litros de pintura\obj\x86\Debug\litros de pintura.pdb

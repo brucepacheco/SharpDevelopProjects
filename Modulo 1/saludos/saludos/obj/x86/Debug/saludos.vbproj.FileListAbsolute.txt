@@ -1,0 +1,5 @@
+C:\Users\Bruce\Documents\SharpDevelop Projects\saludos\saludos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce\Documents\SharpDevelop Projects\saludos\saludos\bin\Debug\saludos.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\saludos\saludos\bin\Debug\saludos.pdb
+C:\Users\Bruce\Documents\SharpDevelop Projects\saludos\saludos\obj\x86\Debug\saludos.exe
+C:\Users\Bruce\Documents\SharpDevelop Projects\saludos\saludos\obj\x86\Debug\saludos.pdb
